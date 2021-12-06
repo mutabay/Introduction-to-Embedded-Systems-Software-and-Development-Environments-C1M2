@@ -9,7 +9,7 @@ Exploring Make GCC tools Author: Mustafa Tayyip BAYRAM Date: 28/09/2020
 
 > In this programming assignment you will create a build system using the GNU tools, GCC and GNU Make. This assignment will require you to >
 
-> After completing this assignment, you will be able to:
+#### After completing this assignment, you will be able to:
 
 1)Use GCC and GNU Make to create a command line build system 2) Write a makefile that can natively and cross compile an application 
 
