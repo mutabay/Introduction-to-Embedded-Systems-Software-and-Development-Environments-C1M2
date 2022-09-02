@@ -1,5 +1,11 @@
 # [Introduction to Embedded Systems Software and Development Environments C1M2](https://www.coursera.org/learn/introduction-embedded-systems)
 
+![image](https://user-images.githubusercontent.com/60510780/188172514-535cac25-79a2-4a96-924c-ebab61429d9a.png)
+
+
+<hr>  
+
+
 
 ##### TASK 2 Assignment2-GNU-Make-and-GCC
 > The make file is in src directory. #USE $make build PLATFORM=MSP432 or $make build PLATFORM=HOST to build  
